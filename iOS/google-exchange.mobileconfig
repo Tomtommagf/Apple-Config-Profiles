@@ -10,8 +10,6 @@
 	<string>au.org.name.device.config.GoogleExchange</string>
 	<key>PayloadOrganization</key>
 	<string>Company Name</string>
-	<key>PayloadRemovalDisallowed</key>
-	<true/>
 	<key>PayloadScope</key>
 	<string>System</string>
 	<key>PayloadType</key>
