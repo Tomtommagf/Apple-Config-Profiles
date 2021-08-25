@@ -10,8 +10,6 @@
 	<string>au.org.name.device.config.GoogleExchange</string>
 	<key>PayloadOrganization</key>
 	<string>Company Name</string>
-	<key>PayloadRemovalDisallowed</key>
-	<true/>
 	<key>PayloadScope</key>
 	<string>System</string>
 	<key>PayloadType</key>
@@ -24,22 +22,9 @@
 	<array>
 
 		<!-- Profile Removal Password -->
-		<dict>
-			<key>PayloadDisplayName</key>
-			<string>Profile Removal</string>
-			<key>PayloadIdentifier</key>
-			<string>au.org.name.profileRemovalPassword</string>
-			<key>PayloadType</key>
-			<string>com.apple.profileRemovalPassword</string>
-			<key>PayloadUUID</key>
-			<string>60EAB07A-0CFB-4F4E-BE26-6BD2BA2CD8B0</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>RemovalPassword</key>
-			<string>YOURPASSWORD</string>
-		</dict>
 
-		<!-- Exchange Configuration -->
+
+                <!-- Exchange Configuration -->
 		<dict>
 			<key>PayloadDisplayName</key>
 			<string>Exchange Settings (GoogleApps)</string>
